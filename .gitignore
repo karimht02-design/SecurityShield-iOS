@@ -1,0 +1,46 @@
+# Xcode
+.DS_Store
+xcuserdata/
+*.xcworkspace
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.xcworkspace/xcuserdata/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+*.xcframework
+
+# Local configuration
+.env
+*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build folders
+build/
+DerivedData/
+
+# OS
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Certificates
+*.p12
+*.mobileprovision
+*.ipa
